@@ -346,6 +346,9 @@ footer{
 }
 /*atualizacao de versao mobile*/
 @media (max-width:500px){
+    .img-perfil{
+        width: 200px;
+    }
     .sobre-item-informacoes{
         display: flex;
         flex-direction: column;
@@ -354,6 +357,12 @@ footer{
         text-align: center;
         justify-content: center;
         padding: 1rem;
+    }
+    .sobre-item-informacoes h1{
+        width: 270px;
+    }
+    .sobre-item-informacoes p{
+        width: 270px;
     }
     .caixa-esquerda{
         display: flex;
