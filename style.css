@@ -390,10 +390,10 @@ footer{
         text-align: center;
         justify-content: center;
         padding: 1rem;
-        padding-left:-1rem;
+        padding-left:-2rem;
     }
     .box-cursos{
-        padding-left:-1rem;
+        padding-left:-2rem;
     }
     .trio-de-abilidades{
         display: flex;
