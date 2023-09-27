@@ -354,9 +354,8 @@ footer{
         flex-direction: column;
         flex-wrap: wrap;
         align-items: center;
-        text-align: center;
         justify-content: center;
-        padding: 1rem;
+        padding: 0.5rem;
     }
     .sobre-item-informacoes h1{
         width: 290px;
@@ -372,9 +371,8 @@ footer{
         flex-direction: column;
         flex-wrap: wrap;
         align-items: center;
-        text-align: center;
         justify-content: center;
-        padding: 1rem;
+        padding: 0.5rem;
     }
     .botoes{
         display: flex;
@@ -402,6 +400,7 @@ footer{
         align-items: center;
         text-align: center;
         justify-content: center;
+        margin:0;
     }
     section{
         margin:0;
