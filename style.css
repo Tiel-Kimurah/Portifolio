@@ -393,7 +393,11 @@ footer{
         padding-left:-2rem;
     }
     .box-cursos{
+        width:80%;
         padding-left:-2rem;
+    }
+    .item-curso{
+        width:270px;
     }
     .trio-de-abilidades{
         display: flex;
