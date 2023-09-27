@@ -399,11 +399,12 @@ footer{
         align-items: center;
         text-align: center;
         justify-content: center;
-        margin:0;
     }
-    section{
-        overflow:hidden;
-        margin:0;
+    .titulo-abilidades h1{
+        font-size:30px;
+    }
+    .titulo-cursos h1{
+        font-size:30px;
     }
     footer{
         width:100%;
