@@ -335,14 +335,13 @@ footer{
 }
 .footer-text{
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
     align-items: center;
     text-align: center;
     justify-content: center;
 }
 .footer-text p{
-    font-size: 16px;
+    font-size: 13px;
 }
 /*atualizacao de versao mobile*/
 @media (max-width:500px){
