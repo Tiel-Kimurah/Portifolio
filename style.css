@@ -364,6 +364,9 @@ footer{
     .sobre-item-informacoes p{
         width: 270px;
     }
+    .text-animate{
+        width: 270px;
+    }
     .caixa-esquerda{
         display: flex;
         flex-direction: column;
@@ -372,6 +375,15 @@ footer{
         text-align: center;
         justify-content: center;
         padding: 1rem;
+    }
+    .botoes{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-items: center;
+        text-align: center;
+        justify-content: center;
+        gap: 0.6rem;
     }
     .box-abilidades{
         display: flex;
