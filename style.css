@@ -359,10 +359,10 @@ footer{
         padding: 1rem;
     }
     .sobre-item-informacoes h1{
-        width: 270px;
+        width: 290px;
     }
     .sobre-item-informacoes p{
-        width: 270px;
+        width: 290px;
     }
     .text-animate{
         width: 270px;
@@ -383,7 +383,7 @@ footer{
         align-items: center;
         text-align: center;
         justify-content: center;
-        gap: 0.6rem;
+        gap: 1rem;
     }
     .box-abilidades{
         display: flex;
@@ -402,5 +402,11 @@ footer{
         align-items: center;
         text-align: center;
         justify-content: center;
+    }
+    section{
+        margin:0;
+    }
+    footer{
+        margin:0;
     }
 }
